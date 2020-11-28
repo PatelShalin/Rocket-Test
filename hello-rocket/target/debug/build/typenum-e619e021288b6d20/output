@@ -1,0 +1,2 @@
+cargo:rustc-env=TYPENUM_BUILD_CONSTS=C:\Users\Patel\Desktop\GitHub\Rocket-Test\hello-rocket\target\debug\build\typenum-e619e021288b6d20\out\consts.rs
+cargo:rustc-env=TYPENUM_BUILD_OP=C:\Users\Patel\Desktop\GitHub\Rocket-Test\hello-rocket\target\debug\build\typenum-e619e021288b6d20\out\op.rs
